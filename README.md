@@ -10,3 +10,7 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 - Chapter 2: Into JavaScript
 - Chapter 3: Into YDKJS
 - Appendix A: Thank You's!
+
+#### Updates
+##### 18/12/2015
+- Finished Chapter 1: Into Programming
