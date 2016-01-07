@@ -11,10 +11,24 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 - Chapter 3: Into YDKJS
 - Appendix A: Thank You's!
 
+### You Don't Know JS: Scope & Closures
+- Foreword (by Shane Hudson)
+- Preface
+- Chapter 1: What is Scope?
+- Chapter 2: Lexical Scope
+- Chapter 3: Function vs. Block Scope
+- Chapter 4: Hoisting
+- Chapter 5: Scope Closures
+- Appendix A: Dynamic Scope
+- Appendix B: Polyfilling Block Scope
+- Appendix C: Lexical-this
+- Appendix D: Thank You's!
+
 #### Updates
 ##### 18/12/2015
-- Finished Chapter 1: Into Programming
+- Finished Up & Going | Chapter 1: Into Programming
 
 ##### 07/01/2016
-- Finished Chapter 2: Into JavaScript
-- Finished Chapter 3: Into YDKJS
+- Finished Up & Going | Chapter 2: Into JavaScript
+- Finished Up & Going | Chapter 3: Into YDKJS
+- Finished Scope & Closures | Preface
