@@ -17,3 +17,4 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 ##### 07/01/2016
 - Finished Chapter 2: Into JavaScript
+- Finished Chapter 3: Into YDKJS
