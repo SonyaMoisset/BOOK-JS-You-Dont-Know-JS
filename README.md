@@ -15,5 +15,5 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 ##### 18/12/2015
 - Finished Chapter 1: Into Programming
 
-##### 07/01/2015
+##### 07/01/2016
 - Finished Chapter 2: Into JavaScript
