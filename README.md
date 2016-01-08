@@ -35,3 +35,4 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 ##### 08/01/2016
 - Finished Scope & Closures | Chapter 1: What is Scope?
+- Finished Scope & Closures | Chapter 2: Lexical Scope
