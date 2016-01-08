@@ -32,3 +32,6 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 - Finished Up & Going | Chapter 2: Into JavaScript
 - Finished Up & Going | Chapter 3: Into YDKJS
 - Finished Scope & Closures | Preface
+
+##### 08/01/2016
+- Finished Scope & Closures | Chapter 1: What is Scope?
