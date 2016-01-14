@@ -40,3 +40,6 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 ##### 11/01/2016
 - Finished Scope & Closures | Chapter 3: Function vs. Block Scope
 - Finished Scope & Closures | Chapter 4: Hoisting
+
+##### 14/01/2016
+- Finished Scope & Closures | Chapter 5: Scope Closures
