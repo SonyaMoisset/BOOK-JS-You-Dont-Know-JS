@@ -24,6 +24,18 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 - Appendix C: Lexical-this
 - Appendix D: Thank You's!
 
+### You Don't Know JS: this & Object Prototypes
+- Foreword (by Nick Berardi)
+- Preface
+- Chapter 1: this Or That?
+- Chapter 2: this All Makes Sense Now!
+- Chapter 3: Objects
+- Chapter 4: Mixing (Up) "Class" Objects
+- Chapter 5: Prototypes
+- Chapter 6: Behavior Delegation
+- Appendix A: ES6 class
+- Appendix B: Thank You's!
+
 #### Updates
 ##### 18/12/2015
 - Finished Up & Going | Chapter 1: Into Programming
