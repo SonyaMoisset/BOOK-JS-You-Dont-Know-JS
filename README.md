@@ -46,3 +46,4 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 ##### 15/01/2015
 - Finished Scope & Closures | Appendix A: Dynamic Scope
+- Finished Scope & Closures | Appendix B: Polyfilling Block Scope
