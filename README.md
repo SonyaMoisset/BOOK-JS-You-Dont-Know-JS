@@ -60,3 +60,6 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 - Finished Scope & Closures | Appendix A: Dynamic Scope
 - Finished Scope & Closures | Appendix B: Polyfilling Block Scope
 - Finished Scope & Closures | Appendix C: Lexical-this
+
+##### 17/01/2016
+- Finished this & Object Prototypes | Chapter 1: this Or That?
